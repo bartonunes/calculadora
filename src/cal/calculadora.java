@@ -1,5 +1,7 @@
 package cal;
 
+
+/*versão 1.0.0  estavel data 10/05/2016*/
 public class calculadora {
 
 	public double n1,n2;
